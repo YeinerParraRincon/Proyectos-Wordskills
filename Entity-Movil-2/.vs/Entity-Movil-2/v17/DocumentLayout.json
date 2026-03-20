@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Entity-Movil-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B5454D-9F0B-44C6-8154-7A9589A47CF6}|Entity-Movil-2\\Entity-Movil-2.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\entity-movil-2\\entity-movil-2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B5454D-9F0B-44C6-8154-7A9589A47CF6}|Entity-Movil-2\\Entity-Movil-2.csproj|solutionrelative:entity-movil-2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B5454D-9F0B-44C6-8154-7A9589A47CF6}|Entity-Movil-2\\Entity-Movil-2.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\entity-movil-2\\entity-movil-2\\controllers\\selesaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B5454D-9F0B-44C6-8154-7A9589A47CF6}|Entity-Movil-2\\Entity-Movil-2.csproj|solutionrelative:entity-movil-2\\controllers\\selesaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B5454D-9F0B-44C6-8154-7A9589A47CF6}|Entity-Movil-2\\Entity-Movil-2.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\entity-movil-2\\entity-movil-2\\models\\selecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B5454D-9F0B-44C6-8154-7A9589A47CF6}|Entity-Movil-2\\Entity-Movil-2.csproj|solutionrelative:entity-movil-2\\models\\selecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelesaoController.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Entity-Movil-2\\Entity-Movil-2\\Controllers\\SelesaoController.cs",
+              "RelativeDocumentMoniker": "Entity-Movil-2\\Controllers\\SelesaoController.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Entity-Movil-2\\Entity-Movil-2\\Controllers\\SelesaoController.cs",
+              "RelativeToolTip": "Entity-Movil-2\\Controllers\\SelesaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:46:06.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selecao.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Entity-Movil-2\\Entity-Movil-2\\Models\\Selecao.cs",
+              "RelativeDocumentMoniker": "Entity-Movil-2\\Models\\Selecao.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Entity-Movil-2\\Entity-Movil-2\\Models\\Selecao.cs",
+              "RelativeToolTip": "Entity-Movil-2\\Models\\Selecao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:44:21.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Entity-Movil-2\\Entity-Movil-2\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Entity-Movil-2\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Entity-Movil-2\\Entity-Movil-2\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Entity-Movil-2\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:03:04.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

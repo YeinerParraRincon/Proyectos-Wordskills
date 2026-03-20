@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\preselecion\\preselecion\\ver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|solutionrelative:preselecion\\ver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\preselecion\\preselecion\\ver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|solutionrelative:preselecion\\ver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\preselecion\\preselecion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|solutionrelative:preselecion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\preselecion\\preselecion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{744027B5-5DA3-4B1C-A77A-352421D545D7}|preselecion\\preselecion.csproj|solutionrelative:preselecion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Form1.cs",
+              "RelativeDocumentMoniker": "preselecion\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Form1.cs",
+              "RelativeToolTip": "preselecion\\Form1.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAcwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:28:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Form1.cs",
+              "RelativeDocumentMoniker": "preselecion\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "preselecion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:28:21.509Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ver.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Ver.cs",
+              "RelativeDocumentMoniker": "preselecion\\Ver.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Ver.cs",
+              "RelativeToolTip": "preselecion\\Ver.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:28:17.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ver.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Ver.cs",
+              "RelativeDocumentMoniker": "preselecion\\Ver.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\preselecion\\preselecion\\Ver.cs [Dise\u00F1o]",
+              "RelativeToolTip": "preselecion\\Ver.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:28:16.574Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

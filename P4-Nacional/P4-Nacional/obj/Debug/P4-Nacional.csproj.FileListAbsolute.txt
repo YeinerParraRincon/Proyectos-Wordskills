@@ -1,0 +1,13 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\bin\Debug\P4-Nacional.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\bin\Debug\P4-Nacional.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\bin\Debug\P4-Nacional.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4-Nacional.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4_Nacional.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4_Nacional.Form2.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4_Nacional.Form3.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4_Nacional.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4-Nacional.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4-Nacional.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4-Nacional.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4-Nacional.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\P4-Nacional\P4-Nacional\obj\Debug\P4-Nacional.exe.config

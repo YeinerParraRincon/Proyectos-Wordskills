@@ -1,0 +1,14 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\bin\Debug\Imgaenes.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\bin\Debug\Imgaenes.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\bin\Debug\Imgaenes.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\Imgaenes\Imgaenes\obj\Debug\Imgaenes.csproj.Up2Date

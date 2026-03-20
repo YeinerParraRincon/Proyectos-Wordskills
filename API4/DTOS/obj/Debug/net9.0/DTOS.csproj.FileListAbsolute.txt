@@ -1,0 +1,11 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\bin\Debug\net9.0\DTOS.deps.json
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\bin\Debug\net9.0\DTOS.dll
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\bin\Debug\net9.0\DTOS.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\DTOS.AssemblyInfoInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\DTOS.AssemblyInfo.cs
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\DTOS.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\DTOS.dll
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\refint\DTOS.dll
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\DTOS.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\API4\DTOS\obj\Debug\net9.0\ref\DTOS.dll

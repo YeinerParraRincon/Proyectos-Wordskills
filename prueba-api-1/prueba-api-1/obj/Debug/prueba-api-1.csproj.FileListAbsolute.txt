@@ -1,0 +1,14 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\bin\Debug\prueba-api-1.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\bin\Debug\prueba-api-1.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\bin\Debug\prueba-api-1.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba-api-1.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba_api_1.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba_api_1.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba-api-1.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba-api-1.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba-a.7701CB2C.Up2Date
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba-api-1.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba-api-1.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\prueba-api-1\prueba-api-1\obj\Debug\prueba-api-1.exe.config

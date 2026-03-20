@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\p4-nacional\\p4-nacional\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|solutionrelative:p4-nacional\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\p4-nacional\\p4-nacional\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|solutionrelative:p4-nacional\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\p4-nacional\\p4-nacional\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|solutionrelative:p4-nacional\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\p4-nacional\\p4-nacional\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|solutionrelative:p4-nacional\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\p4-nacional\\p4-nacional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|solutionrelative:p4-nacional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\p4-nacional\\p4-nacional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5911C-CC0F-4072-9D1D-8712D1578BE1}|P4-Nacional\\P4-Nacional.csproj|solutionrelative:p4-nacional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form3.cs",
+              "RelativeDocumentMoniker": "P4-Nacional\\Form3.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form3.cs",
+              "RelativeToolTip": "P4-Nacional\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:32:44.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form3.cs",
+              "RelativeDocumentMoniker": "P4-Nacional\\Form3.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P4-Nacional\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:32:40.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form2.cs",
+              "RelativeDocumentMoniker": "P4-Nacional\\Form2.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form2.cs",
+              "RelativeToolTip": "P4-Nacional\\Form2.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAYwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T17:45:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form2.cs",
+              "RelativeDocumentMoniker": "P4-Nacional\\Form2.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P4-Nacional\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T17:43:51.062Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form1.cs",
+              "RelativeDocumentMoniker": "P4-Nacional\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form1.cs",
+              "RelativeToolTip": "P4-Nacional\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T17:43:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form1.cs",
+              "RelativeDocumentMoniker": "P4-Nacional\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\P4-Nacional\\P4-Nacional\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P4-Nacional\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:56:11.616Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

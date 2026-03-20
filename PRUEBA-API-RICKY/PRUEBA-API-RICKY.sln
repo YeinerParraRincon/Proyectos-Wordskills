@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRUEBA-API-RICKY", "PRUEBA-API-RICKY\PRUEBA-API-RICKY.csproj", "{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D91B4EAF-8ED2-497C-BDE3-8E25F917F313}
+	EndGlobalSection
+EndGlobal

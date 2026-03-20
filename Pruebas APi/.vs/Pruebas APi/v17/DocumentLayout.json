@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB3199A-59AA-40DB-80B3-626CB6D6E112}|APIS\\APIS.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\pruebas api\\apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB3199A-59AA-40DB-80B3-626CB6D6E112}|APIS\\APIS.csproj|solutionrelative:apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB3199A-59AA-40DB-80B3-626CB6D6E112}|APIS\\APIS.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\pruebas api\\apis\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB3199A-59AA-40DB-80B3-626CB6D6E112}|APIS\\APIS.csproj|solutionrelative:apis\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB3199A-59AA-40DB-80B3-626CB6D6E112}|APIS\\APIS.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\pruebas api\\apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFB3199A-59AA-40DB-80B3-626CB6D6E112}|APIS\\APIS.csproj|solutionrelative:apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFE1B4E-BB64-43C7-A0C3-3435CE94BF9C}|Pruebas APi\\Pruebas APi.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\pruebas api\\pruebas api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDFE1B4E-BB64-43C7-A0C3-3435CE94BF9C}|Pruebas APi\\Pruebas APi.csproj|solutionrelative:pruebas api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\APIS\\Program.cs",
+              "RelativeDocumentMoniker": "APIS\\Program.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\APIS\\Program.cs",
+              "RelativeToolTip": "APIS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:54:42.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\APIS\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "APIS\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\APIS\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "APIS\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:40:54.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\APIS\\appsettings.json",
+              "RelativeDocumentMoniker": "APIS\\appsettings.json",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\APIS\\appsettings.json",
+              "RelativeToolTip": "APIS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T23:15:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\Pruebas APi\\Form1.cs",
+              "RelativeDocumentMoniker": "Pruebas APi\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\Pruebas APi\\Pruebas APi\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pruebas APi\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:52:52.42Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Entity_Movil_1.Models;
+
+public partial class Notification
+{
+    public int Id { get; set; }
+
+    public string Description { get; set; } = null!;
+
+    public DateOnly CreatedAt { get; set; }
+
+    public int? CarId { get; set; }
+
+    public int NotificationTypeId { get; set; }
+
+    public virtual Car? Car { get; set; }
+
+    public virtual NotificationType NotificationType { get; set; } = null!;
+}

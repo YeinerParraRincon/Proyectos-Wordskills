@@ -1,0 +1,14 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\bin\Debug\PreeELiminar.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\bin\Debug\PreeELiminar.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\bin\Debug\PreeELiminar.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.Form2.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.Form3.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Debug\PreeELiminar.Form4.resources

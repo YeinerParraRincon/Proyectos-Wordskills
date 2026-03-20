@@ -1,0 +1,14 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA-API-RICKY.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA_API_RICKY.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA_API_RICKY.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA-API-RICKY.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA-API-RICKY.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\bin\Debug\PRUEBA-API-RICKY.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\bin\Debug\PRUEBA-API-RICKY.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\bin\Debug\PRUEBA-API-RICKY.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA-A.AD7D2D16.Up2Date
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA-API-RICKY.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA-API-RICKY.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\PRUEBA-API-RICKY\PRUEBA-API-RICKY\obj\Debug\PRUEBA-API-RICKY.exe.config

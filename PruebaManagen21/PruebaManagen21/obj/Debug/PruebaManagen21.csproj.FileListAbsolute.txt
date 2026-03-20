@@ -1,0 +1,10 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\bin\Debug\PruebaManagen21.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\bin\Debug\PruebaManagen21.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\bin\Debug\PruebaManagen21.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\obj\Debug\PruebaManagen21.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\obj\Debug\PruebaManagen21.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\obj\Debug\PruebaManagen21.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\obj\Debug\PruebaManagen21.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\obj\Debug\PruebaManagen21.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\obj\Debug\PruebaManagen21.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PruebaManagen21\PruebaManagen21\obj\Debug\PruebaManagen21.pdb

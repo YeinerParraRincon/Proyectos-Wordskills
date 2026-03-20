@@ -1,0 +1,13 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources

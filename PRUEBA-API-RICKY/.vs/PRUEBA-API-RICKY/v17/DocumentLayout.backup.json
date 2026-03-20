@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\PRUEBA-API-RICKY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}|PRUEBA-API-RICKY\\PRUEBA-API-RICKY.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\prueba-api-ricky\\prueba-api-ricky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}|PRUEBA-API-RICKY\\PRUEBA-API-RICKY.csproj|solutionrelative:prueba-api-ricky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}|PRUEBA-API-RICKY\\PRUEBA-API-RICKY.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\prueba-api-ricky\\prueba-api-ricky\\characterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}|PRUEBA-API-RICKY\\PRUEBA-API-RICKY.csproj|solutionrelative:prueba-api-ricky\\characterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}|PRUEBA-API-RICKY\\PRUEBA-API-RICKY.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\prueba-api-ricky\\prueba-api-ricky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7AD1517-897B-4B12-B1A8-D34050A9E6A8}|PRUEBA-API-RICKY\\PRUEBA-API-RICKY.csproj|solutionrelative:prueba-api-ricky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\PRUEBA-API-RICKY\\PRUEBA-API-RICKY\\Form1.cs",
+              "RelativeDocumentMoniker": "PRUEBA-API-RICKY\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\PRUEBA-API-RICKY\\PRUEBA-API-RICKY\\Form1.cs*",
+              "RelativeToolTip": "PRUEBA-API-RICKY\\Form1.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:30:02.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\PRUEBA-API-RICKY\\PRUEBA-API-RICKY\\CharacterResponse.cs",
+              "RelativeDocumentMoniker": "PRUEBA-API-RICKY\\CharacterResponse.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\PRUEBA-API-RICKY\\PRUEBA-API-RICKY\\CharacterResponse.cs",
+              "RelativeToolTip": "PRUEBA-API-RICKY\\CharacterResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:28:54.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\PRUEBA-API-RICKY\\PRUEBA-API-RICKY\\Form1.cs",
+              "RelativeDocumentMoniker": "PRUEBA-API-RICKY\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\PRUEBA-API-RICKY\\PRUEBA-API-RICKY\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PRUEBA-API-RICKY\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:20:38.761Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\bin\Release\PreeELiminar.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\bin\Release\PreeELiminar.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\bin\Release\PreeELiminar.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.Form2.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.Form3.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.Form4.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\PreeELiminar\PreeELiminar\obj\Release\PreeELiminar.exe.config

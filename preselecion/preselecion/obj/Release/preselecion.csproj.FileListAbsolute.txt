@@ -1,0 +1,13 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\bin\Release\preselecion.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\bin\Release\preselecion.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\bin\Release\preselecion.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.Imagen.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.ListaDeLosIngredientes.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.Ver.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\preselecion\preselecion\obj\Release\preselecion.pdb

@@ -1,0 +1,17 @@
+[
+    {
+        "nombre":"Yeiner",
+        "edad":17,
+        "imagen":"images/yeiner.jpg"
+    },
+    {
+        "nombre":"Luciana",
+        "edad":9,
+        "imagen":"images/luciana.jpg"
+    },
+    {
+        "nombre":"Martha",
+        "edad":41,
+        "imagen":"images/Martha.jpg"
+    }
+]

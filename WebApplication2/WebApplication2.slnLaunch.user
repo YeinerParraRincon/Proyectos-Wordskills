@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "WebApplication2\\WebApplication2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WinFormsApp1\\WinFormsApp1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

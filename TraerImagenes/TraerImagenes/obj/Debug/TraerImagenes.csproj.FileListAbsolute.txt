@@ -1,0 +1,11 @@
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\bin\Debug\TraerImagenes.exe.config
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\bin\Debug\TraerImagenes.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\bin\Debug\TraerImagenes.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.csproj.AssemblyReference.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.Form1.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.Properties.Resources.resources
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.csproj.GenerateResource.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.csproj.CoreCompileInputs.cache
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.exe
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.pdb
+C:\Users\h1484\OneDrive\Escritorio\Privado\TraerImagenes\TraerImagenes\obj\Debug\TraerImagenes.exe.config

@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\windowsformsapp3\\windowsformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\windowsformsapp3\\windowsformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\windowsformsapp3\\windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\windowsformsapp3\\windowsformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\windowsformsapp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\windowsformsapp3\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\h1484\\onedrive\\escritorio\\privado\\windowsformsapp3\\windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5800136D-0B29-47FB-8FA9-FE26EF143A59}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:04:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:04:25.524Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form3.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Form3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T04:36:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form3.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp3\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:03:12.328Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:47:51.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Form2.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowKoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T05:38:29.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Users\\h1484\\OneDrive\\Escritorio\\Privado\\WindowsFormsApp3\\WindowsFormsApp3\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp3\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T05:37:18.149Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
